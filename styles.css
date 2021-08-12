@@ -1,0 +1,12 @@
+.flx-root {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+flx-card{
+    width: 300px;
+}
+.card-image {
+    min-height: 300px;
+}
